@@ -15,4 +15,4 @@ while True:
 			print('Acess denied')
 
 		
-		print('Saiu do programa')
+		print('Volta para o ínicio do programa')
